@@ -1,0 +1,11 @@
+<!DOCTYPE html>                                                                              //TELLS BROWSER YOU ARE YOUSING HTML
+<html lang="en">                                                                             //ROOT OF AN HTML DOCUMENT
+<head>                                                                                       //CONTAINER FOR METADATA
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">                   
+    <title>Document</title>                                                                  //PAGE TITLE
+</head>                                                                                      //CONTAINS ALL DATA RENDERED BY THE 
+<body>
+   <P>this is a paragraph</P>                                                                //PARAGRAPH TAG 
+</body>
+</html>
