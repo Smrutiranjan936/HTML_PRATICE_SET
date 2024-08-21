@@ -1,1 +1,80 @@
+<a>        //it is basically used to define hyperlink
+           //in this tag we can add the links in our program
+
+<b>        //this tag besically used to make text bold
+
+<div>      //it is a contenner
+
+<br>       //it is besically used to line break
+
+<p>        //it is used to make paragraph
+
+<h1>       //Headding
+
+<i>        //italic
+
+<u>        //underline
+
+<body>     //it contains the main content which are display in the live server
+
+<title>    //sets the document title 
+
+<img>       //it used to insert the image in our program
+
+<span>      //applies styles to inline elements 
+
+<hr>       //it represent the horizontal rule line
+
+<input>     //creates input fields for forms
+
+<form>      //from user input
+
+<ul>         //unordered list
+
+<ol>         //ordered list
+
+<header>      // it define the heading section
+
+<footer>      //it represent the footer of the section
+
+<nav>         //it define the navigation menu
+
+<section>     //it have section of content
+
+
+<time>       //it represent the time period
+
+<pre>        // it preserving all the space and line break
+
+<q>          //define short inline quotation
+
+<caption>   //it use in table caption
+
+
+<tsble>      //it use to create table
+
+<tr>          //table row
+
+<td>          //table cell
+
+<th>          //table head
+
+
+<tbody>       // table body section
+
+
+<video>        //insert video
+
+
+<audio>         //insert audio
+
+<source>         //media source
+
+<figur>         //grouped content with a caption
+
+<code>          // inline code
+
+<sub>            // subscript text (Ex) H2O ,   here 2 is subscript
+
+<sup>            // superscript text (Ex)a2+b2+2ab   , here 2 is superscript
 
